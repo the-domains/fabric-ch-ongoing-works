@@ -11,5 +11,9 @@ color:
     - '#636459'
     - '#CCCECB'
 layout_spectrum: 0.331055962247774
-name: 'fabric | ch, ongoing works'
+name: from | rblg
+navigation:
+  - name: fabric | ch
+    url: 'http://www.fabric.ch'
+    type: external
 title: 'fabric | ch, ongoing works'
