@@ -26,8 +26,8 @@ app_links: []
 isBasedOnUrl: >-
   http://blog.fabric.ch/index.php?/archives/2289-Summer-works-vs.-Summer-break.html
 title: Summer works (vs. Summer break) - fabric | rblg
-datePublished: '2016-08-19T15:56:28.346Z'
-dateModified: '2016-08-19T15:50:45.978Z'
+datePublished: '2016-08-19T15:56:29.577Z'
+dateModified: '2016-08-19T15:50:53.015Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-19-summer-works-vs-summer-break-fabric-or-rblg.md
