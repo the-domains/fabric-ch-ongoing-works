@@ -16,4 +16,7 @@ navigation:
   - name: fabric | ch
     url: 'http://www.fabric.ch'
     type: external
+  - name: fabric | rblg
+    url: 'http://blog.fabric.ch'
+    type: external
 title: 'fabric | ch, ongoing works'
