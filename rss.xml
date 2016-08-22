@@ -4,7 +4,7 @@
         <description><![CDATA[fabric | ch, ongoing works]]></description>
         <link>https://thegrid.ai/fabric-ch-ongoing-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 16:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 16:21:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fabric-ch-ongoing-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Personal Artificial Sun (and luminous night!) - fabric | rblg]]></title>
@@ -19,6 +19,13 @@
             <link>http://blog.fabric.ch/index.php?/archives/1694-Arctic-Opening-Fenetre-Arctique-follow-up-pictures.html</link>
             <guid isPermaLink="false">29239719-6365-45d0-84d5-05a38e236837</guid>
             <pubDate>Mon, 22 Aug 2016 16:21:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I-Weather, www.i-weather.org, libraries, apps and etc. - fabric | rblg]]></title>
+            <description><![CDATA[<article><h1>I-Weather, www.i-weather.org, libraries, apps and etc. - fabric | rblg</h1><p>I-Weather is an international consortium created in 2001 that has set itself the goal of creating the world's first artificial climate to satisfy the metabolic and physiological requirements of a human being in an environment partially or completely removed from earthly influences: mediated reality, networks and netlag, the disruption of the body clock that comes with air travel, as well as with extra-terrestrial trips and holidays.</p><img src="http://blog.fabric.ch/uploads/image/IMG_5705.JPG"></article>]]></description>
+            <link>http://blog.fabric.ch/index.php?/archives/1769-I-Weather,-www.i-weather.org,-libraries,-apps-and-etc..html</link>
+            <guid isPermaLink="false">9c8d42f4-b580-47b2-bda1-8f1796593839</guid>
+            <pubDate>Mon, 22 Aug 2016 16:21:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I-Weather as Deep Space Public Lighting - fabric | rblg]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.fabric.ch/index.php?/archives/1946-www.fabric.ch-updated.html</link>
             <guid isPermaLink="false">22c6c845-bafd-48c1-a9f4-3615a9c947c2</guid>
             <pubDate>Mon, 22 Aug 2016 16:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More on Online Museums - fabric | rblg]]></title>
-            <description><![CDATA[<article><h1>More on Online Museums - fabric | rblg</h1><p>Rhizome recently published a piece I wrote entitled "Moving the Museum Online ". The piece was a critique of the Adobe Museum of Digital Media, and also served as a platform to discuss the concept of online museums, and highlight a few examples that I thought were particularly noteworthy, including the Virtual Museums of Canada, the Museum of Online Museums, the MINI Museum, and Google's recent Art Project.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e8bb736896279d6b1edba2a148b768f/noop.png?input=http%3A%2F%2Fblog.fabric.ch%2Ffabric%2Fimages%2F1966_1297807207_0.png"></article>]]></description>
-            <link>http://blog.fabric.ch/index.php?/archives/1966-More-on-Online-Museums.html</link>
-            <guid isPermaLink="false">57f0cd18-a05e-4941-98e8-d5d9cb2ba8be</guid>
-            <pubDate>Mon, 22 Aug 2016 16:11:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
