@@ -25,4 +25,7 @@ navigation:
   - name: Follow us on Vimeo
     url: 'https://vimeo.com/fbrcch/videos'
     type: external
+  - name: Follow us on Facebook
+    url: 'https://www.facebook.com/fabricch/'
+    type: external
 title: 'fabric | ch, ongoing works'
