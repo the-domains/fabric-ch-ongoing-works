@@ -4,8 +4,15 @@
         <description><![CDATA[fabric | ch, ongoing works]]></description>
         <link>https://thegrid.ai/fabric-ch-ongoing-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 16:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 16:12:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fabric-ch-ongoing-works/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Transgenic Mosquitoes, Musical Tomatoes, and Urban Fruit - fabric | rblg]]></title>
+            <description><![CDATA[<article><h1>Transgenic Mosquitoes, Musical Tomatoes, and Urban Fruit - fabric | rblg</h1><p>Under the pioneering and Utopian instruction to "Build Your Own World," the Biennial's curators have assembled an enormous quantity of projects that, at a variety of scales, attempt to redesign our environment, infrastructure, atmosphere, and culture.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/20b640095a82ac1296809dcd0c3393f6/noop.jpg?input=http%3A%2F%2Fblog.fabric.ch%2Ffabric%2Fimages%2F2020_1300312823_0.jpg"></article>]]></description>
+            <link>http://blog.fabric.ch/index.php?/archives/2020-Transgenic-Mosquitoes,-Musical-Tomatoes,-and-Urban-Fruit.html</link>
+            <guid isPermaLink="false">0f2d047c-cf60-4063-8510-4fcc7ae6ddba</guid>
+            <pubDate>Mon, 22 Aug 2016 16:12:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[fabric | ch - fabric | rblg]]></title>
             <description><![CDATA[<article><h1>fabric | ch - fabric | rblg</h1><p>Paranoid Shelter is a recent installation / architectural device that fabric | ch finalized later in 2011 after a 6 months residency at the EPFL-ECAL Lab in Renens (Switzerland). It was realized with the support of Pro Helvetia , the , the City of Lausanne and the State of Vaud .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/668e3fbcba9bd660c2611ef145e89fa8/noop.jpg?input=http%3A%2F%2Fblog.fabric.ch%2Fuploads%2Fimage%2FDSC00755_s.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://blog.fabric.ch/index.php?/archives/2651-Big-Data-sur-la-RTS-entretien-detournements.html</link>
             <guid isPermaLink="false">ad3ebdac-27ad-45c2-8fd4-1fe679a3b32d</guid>
             <pubDate>Fri, 19 Aug 2016 16:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I&IC at Unfrozen, Swiss Design Network 2016 Conference | #datacenter #infrastructures #research - fabric | rblg]]></title>
-            <description><![CDATA[<article><h1>I&IC at Unfrozen, Swiss Design Network 2016 Conference | #datacenter #infrastructures #research - fabric | rblg</h1><p>Note: I'll move this afternoon to Grandhotel Giessbach (sounds like a Wes Anderson movie) to present later tonight the temporary results of the research I'm jointly leading with Nicolas Nova for ECAL & HEAD - Genève, in partnership with EPFL-ECAL Lab & EPFL: Inhabiting and Interfacing the Cloud(s).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1f943107795d653b0fe72bc9e11abec/noop.png?input=http%3A%2F%2Fwww.iiclouds.org%2Fwp-content%2Fuploads%2F2016%2F01%2FScreen-Shot-2016-01-27-at-18.29.46.png"></article>]]></description>
-            <link>http://blog.fabric.ch/index.php?/archives/2648-IIC-at-Unfrozen,-Swiss-Design-Network-2016-Conference-datacenter-infrastructures-research.html</link>
-            <guid isPermaLink="false">5c871fcf-173b-48ec-abff-bd591f178ccf</guid>
-            <pubDate>Fri, 19 Aug 2016 16:43:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
