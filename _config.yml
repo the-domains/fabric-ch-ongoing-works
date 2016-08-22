@@ -1,4 +1,3 @@
-layout_spectrum: 0.331055962247774
 typography_spectrum: 0.9530919513199478
 color:
   brandStrength: 0.10947711789049208
@@ -6,9 +5,21 @@ color:
   saturation: 0.10568022029474378
   rhythmicContrast: 0.4378315096255392
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-name: 'fabric | ch, ongoing works'
+    - '#5CFF8A'
+    - '#45ECFF'
+    - '#FFEB00'
+    - '#636459'
+    - '#CCCECB'
+layout_spectrum: 0.331055962247774
+name: from | rblg
+navigation:
+  - name: fabric | ch
+    url: 'http://www.fabric.ch'
+    type: external
+  - name: fabric | rblg
+    url: 'http://blog.fabric.ch'
+    type: external
+  - name: 'Selected works, 203pp pdf'
+    url: 'http://www.fabric.ch/pdf/00_fabric-ch_espaces_moires.pdf'
+    type: external
+title: 'fabric | ch, ongoing works'
