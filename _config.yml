@@ -16,7 +16,7 @@ navigation:
   - name: fabric | ch
     url: 'http://www.fabric.ch'
     type: external
-  - name: 'fabric | rblg, our blog'
+  - name: 'fabric | rblg, our survey blog'
     url: 'http://blog.fabric.ch'
     type: external
   - name: 'Selected works, 203 pp, pdf'
