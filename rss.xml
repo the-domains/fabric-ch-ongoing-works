@@ -4,8 +4,15 @@
         <description><![CDATA[fabric | ch, ongoing works]]></description>
         <link>https://thegrid.ai/fabric-ch-ongoing-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 16:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 16:21:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fabric-ch-ongoing-works/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Personal Artificial Sun (and luminous night!) - fabric | rblg]]></title>
+            <description><![CDATA[<article><h1>Personal Artificial Sun (and luminous night!) - fabric | rblg</h1><p>When we set out to upgrade our Blogger Classic Template to Blogger Layouts (or is it Blogger Design?), we planned on streamlining the layout into just one column. But then we accidentally stumbled upon an embeddable personal artificial sun. We were instantly smitten, and knew we had to incorporate it into the new design, single column be damned.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9a165249db50e9123e37f4ddd0a1b85f/croprotate.jpg?cropheight=345&cropwidth=550&degrees=0&input=http%3A%2F%2Fblog.fabric.ch%2Ffabric%2Fimages%2F1643_1278536402_0.jpg&x=0&y=31"></article>]]></description>
+            <link>http://blog.fabric.ch/index.php?/archives/1643-Personal-Artificial-Sun-and-luminous-night!.html</link>
+            <guid isPermaLink="false">3457c102-f513-4ae4-a127-237967ebd627</guid>
+            <pubDate>Mon, 22 Aug 2016 16:21:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arctic Opening (Fenêtre Arctique) - follow up & pictures - fabric | rblg]]></title>
             <description><![CDATA[<article><h1>Arctic Opening (Fenêtre Arctique) - follow up & pictures - fabric | rblg</h1><p>It has been a quite difficult project to achieve due to hard climatic conditions (40°C all day long during installation and exhibition... This was certainly hard for us, but even more for computers and electronic equipment...), but also due to the fact that the location, size of installation and lighting technology have changed one week prior to opening!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b10f2cde586ff5a41eef7c744ec25eaa/noop.jpg?input=http%3A%2F%2Fblog.fabric.ch%2Fuploads%2Fimage%2Fnb-r_02.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://blog.fabric.ch/index.php?/archives/1966-More-on-Online-Museums.html</link>
             <guid isPermaLink="false">57f0cd18-a05e-4941-98e8-d5d9cb2ba8be</guid>
             <pubDate>Mon, 22 Aug 2016 16:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BRACKET [goes soft] selected submissions: Arctic Opening included - fabric | rblg]]></title>
-            <description><![CDATA[<article><h1>BRACKET [goes soft] selected submissions: Arctic Opening included - fabric | rblg</h1><p>Arctic Opening by fabric | ch will be published in this issue with other projects or articles like Of Pop and Prostheses: Vienna 1965-72 by Jon Cummings or Surveiller et divertir by Pietro Pezzani.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cafb8478f756a1dd2c0f71c53b05ed24/noop.jpg?input=http%3A%2F%2Fblog.fabric.ch%2Ffabric%2Fimages%2F2007_1300226411_2.jpg"></article>]]></description>
-            <link>http://blog.fabric.ch/index.php?/archives/2007-BRACKET-goes-soft-selected-submissions-Arctic-Opening-included.html</link>
-            <guid isPermaLink="false">84686820-7e08-43d1-98d6-86d9f4c9dc68</guid>
-            <pubDate>Mon, 22 Aug 2016 16:11:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
