@@ -4,8 +4,15 @@
         <description><![CDATA[fabric | ch, ongoing works]]></description>
         <link>https://thegrid.ai/fabric-ch-ongoing-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 16:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 16:22:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fabric-ch-ongoing-works/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arctic Opening (Fenêtre Arctique) - fabric | rblg]]></title>
+            <description><![CDATA[<article><h1>Arctic Opening (Fenêtre Arctique) - fabric | rblg</h1><p>The aim of the project is to let appear a "second day" made of a large artificial ligthing, between Marseille's sunsets and sunrises, when everything becomes dark and quiet on the islands. This illumination will have its source up north, beyond the polar circle, where the sun shines 24 hours long during summer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3b5c262083588f3e4695a02e5d69fc64/noop.jpg?input=http%3A%2F%2Fblog.fabric.ch%2Fuploads%2Fimage%2Farctic-opening_01s.jpg"></article>]]></description>
+            <link>http://blog.fabric.ch/index.php?/archives/1631-Arctic-Opening-Fenetre-Arctique.html</link>
+            <guid isPermaLink="false">79c688d5-3afc-464b-995a-5971e0ce87da</guid>
+            <pubDate>Mon, 22 Aug 2016 16:21:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Personal Artificial Sun (and luminous night!) - fabric | rblg]]></title>
             <description><![CDATA[<article><h1>Personal Artificial Sun (and luminous night!) - fabric | rblg</h1><p>When we set out to upgrade our Blogger Classic Template to Blogger Layouts (or is it Blogger Design?), we planned on streamlining the layout into just one column. But then we accidentally stumbled upon an embeddable personal artificial sun. We were instantly smitten, and knew we had to incorporate it into the new design, single column be damned.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9a165249db50e9123e37f4ddd0a1b85f/croprotate.jpg?cropheight=345&cropwidth=550&degrees=0&input=http%3A%2F%2Fblog.fabric.ch%2Ffabric%2Fimages%2F1643_1278536402_0.jpg&x=0&y=31"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[I-Weather, www.i-weather.org, libraries, apps and etc. - fabric | rblg]]></title>
-            <description><![CDATA[<article><h1>I-Weather, www.i-weather.org, libraries, apps and etc. - fabric | rblg</h1><p>I-Weather is an international consortium created in 2001 that has set itself the goal of creating the world's first artificial climate to satisfy the metabolic and physiological requirements of a human being in an environment partially or completely removed from earthly influences: mediated reality, networks and netlag, the disruption of the body clock that comes with air travel, as well as with extra-terrestrial trips and holidays.</p><img src="http://blog.fabric.ch/uploads/image/IMG_5705.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>I-Weather, www.i-weather.org, libraries, apps and etc. - fabric | rblg</h1><p>I-Weather is an international consortium created in 2001 that has set itself the goal of creating the world's first artificial climate to satisfy the metabolic and physiological requirements of a human being in an environment partially or completely removed from earthly influences: mediated reality, networks and netlag, the disruption of the body clock that comes with air travel, as well as with extra-terrestrial trips and holidays.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/441517b13616b3f981c33b2404dbb188/noop.jpg?input=http%3A%2F%2Fblog.fabric.ch%2Fuploads%2Fimage%2FIMG_5705.JPG"></article>]]></description>
             <link>http://blog.fabric.ch/index.php?/archives/1769-I-Weather,-www.i-weather.org,-libraries,-apps-and-etc..html</link>
             <guid isPermaLink="false">9c8d42f4-b580-47b2-bda1-8f1796593839</guid>
             <pubDate>Mon, 22 Aug 2016 16:21:28 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://blog.fabric.ch/index.php?/archives/1875-I-Weather-as-Deep-Space-Public-Lighting-follow-up-pictures.html</link>
             <guid isPermaLink="false">7a8f20d5-e966-4984-ae09-3f7024e53aee</guid>
             <pubDate>Mon, 22 Aug 2016 16:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.fabric.ch updated - fabric | rblg]]></title>
-            <description><![CDATA[<article><h1>www.fabric.ch updated - fabric | rblg</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c631eba27bec18d6bfa724b7f326d777/noop.jpg?input=http%3A%2F%2Fblog.fabric.ch%2Fuploads%2Fimage%2Ffabric_website_2011.jpg"></article>]]></description>
-            <link>http://blog.fabric.ch/index.php?/archives/1946-www.fabric.ch-updated.html</link>
-            <guid isPermaLink="false">22c6c845-bafd-48c1-a9f4-3615a9c947c2</guid>
-            <pubDate>Mon, 22 Aug 2016 16:11:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
