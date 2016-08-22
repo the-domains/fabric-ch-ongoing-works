@@ -4,7 +4,7 @@
         <description><![CDATA[fabric | ch, ongoing works]]></description>
         <link>https://thegrid.ai/fabric-ch-ongoing-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 16:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 16:25:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fabric-ch-ongoing-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Christophe Guignard "Contemporary space(s)" (Lift07 EN) - fabric | rblg]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.fabric.ch/index.php?/archives/2017-Christophe-Guignard-Contemporary-spaces-Lift07-EN.html</link>
             <guid isPermaLink="false">1eab995e-cd6a-4df6-841b-1e569d705844</guid>
             <pubDate>Mon, 22 Aug 2016 16:25:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Variable_environment/ - fabric | rblg]]></title>
+            <description><![CDATA[<article><h1>Variable_environment/ - fabric | rblg</h1><p>Over the past year, i've spent an impressive amount of time ogling a blog called Variable_environment. It had all the key ingredients that get my attention: pictures (many, lavish, big, most of them snapped by Milo Keller), inspiring collaborators (including architect Philippe Rahm, multimedia designer Ben Hooker, researcher and designer Rachel Wingfield and architect Christophe Guignard), mini robotic guest stars, and great content.</p><img src="http://blog.fabric.ch/fabric/images/2013_1300312810_6.jpg"></article>]]></description>
+            <link>http://blog.fabric.ch/index.php?/archives/2013-Variable_environment.html</link>
+            <guid isPermaLink="false">6f582b3d-d0ac-4939-b087-87c5f9362717</guid>
+            <pubDate>Mon, 22 Aug 2016 16:25:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Postopolis!LA (a blog-a-thon) - fabric | rblg]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.fabric.ch/index.php?/archives/1631-Arctic-Opening-Fenetre-Arctique.html</link>
             <guid isPermaLink="false">79c688d5-3afc-464b-995a-5971e0ce87da</guid>
             <pubDate>Mon, 22 Aug 2016 16:21:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Personal Artificial Sun (and luminous night!) - fabric | rblg]]></title>
-            <description><![CDATA[<article><h1>Personal Artificial Sun (and luminous night!) - fabric | rblg</h1><p>When we set out to upgrade our Blogger Classic Template to Blogger Layouts (or is it Blogger Design?), we planned on streamlining the layout into just one column. But then we accidentally stumbled upon an embeddable personal artificial sun. We were instantly smitten, and knew we had to incorporate it into the new design, single column be damned.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9a165249db50e9123e37f4ddd0a1b85f/croprotate.jpg?cropheight=345&cropwidth=550&degrees=0&input=http%3A%2F%2Fblog.fabric.ch%2Ffabric%2Fimages%2F1643_1278536402_0.jpg&x=0&y=31"></article>]]></description>
-            <link>http://blog.fabric.ch/index.php?/archives/1643-Personal-Artificial-Sun-and-luminous-night!.html</link>
-            <guid isPermaLink="false">3457c102-f513-4ae4-a127-237967ebd627</guid>
-            <pubDate>Mon, 22 Aug 2016 16:21:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
