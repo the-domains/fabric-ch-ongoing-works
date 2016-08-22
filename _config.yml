@@ -11,7 +11,7 @@ color:
     - '#636459'
     - '#CCCECB'
 layout_spectrum: 0.331055962247774
-name: from | rblg
+name: directly from | rblg
 navigation:
   - name: fabric | ch
     url: 'http://www.fabric.ch'
@@ -19,7 +19,7 @@ navigation:
   - name: fabric | rblg
     url: 'http://blog.fabric.ch'
     type: external
-  - name: 'Selected works, 203pp pdf'
+  - name: 'Selected works, 203pp, pdf'
     url: 'http://www.fabric.ch/pdf/00_fabric-ch_espaces_moires.pdf'
     type: external
 title: 'fabric | ch, ongoing works'
