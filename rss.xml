@@ -2,16 +2,30 @@
     <channel>
         <title><![CDATA[fabric | ch, ongoing works]]></title>
         <description><![CDATA[fabric | ch, ongoing works]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fabric-ch-ongoing-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 09:33:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 09:33:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fabric-ch-ongoing-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PPoFP]]></title>
             <description><![CDATA[<article><h1>PPoFP</h1><p>Note: in the continuity of my previous post/documentation concerning the project Platform of Future-Past ( 's recent winning competition proposal), I publish additio nal images (several) and explanations about the second phase of the Platform project, for which we were mandated by Canton de Vaud (SiPAL).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d97c5026035b1f0fc3bac130787cfd25e169681e.jpg"></article>]]></description>
             <link>http://blog.fabric.ch/index.php?/archives/2668-Public-Platform-of-Future-Past,-extended-study-phase.-Bots,-Ar.I.-tools-data-monitoring-architecture.html</link>
             <guid isPermaLink="false">221b7ee8-cfc8-4202-8901-b67bf781b143</guid>
             <pubDate>Wed, 31 Aug 2016 09:33:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Platform of Future-Past by fabric | ch, architecture competition, (ex)1st price | #data #architecture #experimentation - fabric | rblg]]></title>
+            <description><![CDATA[<article><h1>Platform of Future-Past by fabric | ch, architecture competition, (ex)1st price | #data #architecture #experimentation - fabric | rblg</h1><p>It consisted in an evolution of a prior spatial installation entitled (pdf). A second post will follow soon with the developments of this competition proposal. Both posts will show how we try to combine small size experiments (exhibitions) with more permanent ones (architecture) in our work.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56565b4074ec9b1b2ebe25e22ef74af0/noop.jpg?input=http%3A%2F%2Fblog.fabric.ch%2Fuploads%2Fimage%2FPlatform-Future-Past_A0.jpg"></article>]]></description>
+            <link>http://blog.fabric.ch/index.php?/archives/2662-Platform-of-Future-Past-by-fabric-ch,-architecture-competition,-ex1st-price-data-architecture-experimentation.html</link>
+            <guid isPermaLink="false">6e51609d-ad34-4d28-9176-09f9c4da3d4e</guid>
+            <pubDate>Wed, 31 Aug 2016 09:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(Big) Data sur la RTS | #entretien #détournements - fabric | rblg]]></title>
+            <description><![CDATA[<article><h1>(Big) Data sur la RTS | #entretien #détournements - fabric | rblg</h1><p>Cet entretien, qui a été enregistré en fin de semaine passée, nous verra évoquer la façon dont les artistes ou designers abordent aujourd'hui --mais aussi un peu hier-- cette question des données. En contrepoint ou complément peut-être des approches scientifiques.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cafd320a86fc65ddfe11cf086161affd/noop.jpg?input=http%3A%2F%2Fblog.fabric.ch%2Fuploads%2Fimage%2Fhistoire_viv.jpg"></article>]]></description>
+            <link>http://blog.fabric.ch/index.php?/archives/2651-Big-Data-sur-la-RTS-entretien-detournements.html</link>
+            <guid isPermaLink="false">ad3ebdac-27ad-45c2-8fd4-1fe679a3b32d</guid>
+            <pubDate>Wed, 31 Aug 2016 09:33:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
